@@ -1,14 +1,37 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "events": [
+    {
+      "id": 34346512,
+      "category": "asdngdfh",
+      "title": "asdgejhoethjd",
+      "description": "dgjirhgjiergjhas",
+      "location": "kz",
+      "date": "July 22, 2023",
+      "time": "23:00",
+      "petsAllowed": false,
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 432623612,
+      "category": "fhgrtdfg",
+      "title": "jkuykyjhg",
+      "description": "qwetrrghdf",
+      "location": "St, Zagora",
+      "date": "July 10, 2021",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Ivan"
+    },
+    {
+      "id": 65647378,
+      "category": "gtwsesdvxc",
+      "title": "caqwerwtdfht",
+      "description": "bngdfgqrgd",
+      "location": "Sofia",
+      "date": "July 2, 2015",
+      "time": "11:00",
+      "petsAllowed": true,
+      "organizer": "Simo"
+    }
+  ]
 }
